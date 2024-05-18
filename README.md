@@ -6,6 +6,7 @@
 
   
 <h1> Navigation </h1>
+
 * The setup_starter notebook is in the main directory and contains some data cleaning as well as some updates to the database.
 * The analysis notebook is in the main directory and contains analysis of the dataset answering several questions about restaurants in the UK.
 * The resources folder holds the data in .json format.
